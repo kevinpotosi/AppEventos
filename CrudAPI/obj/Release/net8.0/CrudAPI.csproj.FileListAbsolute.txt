@@ -1,0 +1,12 @@
+C:\Users\Kevin\source\repos\CrudAPI\bin\Release\net8.0\CrudAPI.deps.json
+C:\Users\Kevin\source\repos\CrudAPI\bin\Release\net8.0\CrudAPI.dll
+C:\Users\Kevin\source\repos\CrudAPI\bin\Release\net8.0\CrudAPI.pdb
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.dll
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\refint\CrudAPI.dll
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\CrudAPI.pdb
+C:\Users\Kevin\source\repos\CrudAPI\obj\Release\net8.0\ref\CrudAPI.dll

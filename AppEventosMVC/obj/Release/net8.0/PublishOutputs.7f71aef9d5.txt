@@ -1,0 +1,12 @@
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventosMVC.exe
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventosMVC.dll
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventosMVC.deps.json
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventosMVC.runtimeconfig.json
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventosMVC.pdb
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventos.dll
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\CrudAPI.dll
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\AppEventos.pdb
+C:\Users\Kevin\source\repos\AppEventosMVC\obj\Release\net8.0\PubTmp\Out\CrudAPI.pdb

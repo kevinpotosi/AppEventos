@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\AppEventos\bin\Release\net8.0\AppEventos.deps.json
+C:\Users\Kevin\source\repos\AppEventos\bin\Release\net8.0\AppEventos.dll
+C:\Users\Kevin\source\repos\AppEventos\bin\Release\net8.0\AppEventos.pdb
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\AppEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\AppEventos.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\AppEventos.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\AppEventos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\AppEventos.dll
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\refint\AppEventos.dll
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\AppEventos.pdb
+C:\Users\Kevin\source\repos\AppEventos\obj\Release\net8.0\ref\AppEventos.dll
